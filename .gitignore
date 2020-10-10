@@ -1,0 +1,4 @@
+# Transient files to not track in the repo
+# -- the swap files
+*.swp
+build_log.txt
